@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --white: #ffffff;
+    --pink: #e83e8c;
+    --info: #17a2b8;
+}
+.bg-pink {
+    background-color: var(--pink);
+}
+.text-info {
+    color: var(--white);
+}
+.bg-info {
+    background-color: var(--info);
+}
